@@ -53,7 +53,6 @@ const App = () => {
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/watchlist" element={<Watchlist />} />
           <Route path="/compare" element={<Compare />} />
-          
         </Routes>
       </Suspense>
     </Box>
